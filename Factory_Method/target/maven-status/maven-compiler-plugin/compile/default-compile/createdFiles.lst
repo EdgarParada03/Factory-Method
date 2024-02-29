@@ -1,0 +1,6 @@
+com\mycompany\factory_method\DecodedImage.class
+com\mycompany\factory_method\ImageReader.class
+com\mycompany\factory_method\FactoryMethodDemo.class
+com\mycompany\factory_method\GifReader.class
+com\mycompany\factory_method\Factory_Method.class
+com\mycompany\factory_method\JpegReader.class
